@@ -7,3 +7,4 @@
 | Sample-based Learning Methods | https://www.coursera.org/learn/sample-based-learning-methods?specialization=reinforcement-learning | Intermediate | 22 hrs |   | https://www.coursera.org/account/accomplishments/certificate/4QGJAMEVF9XU |
 | Prediction and Control with Function Approximation | https://www.coursera.org/learn/prediction-control-function-approximation?specialization=reinforcement-learning | Intermediate | 22 hrs | | https://www.coursera.org/account/accomplishments/certificate/9L22NQWZN5XT |
 | A Complete Reinforcement Learning System (Capstone) | https://www.coursera.org/learn/complete-reinforcement-learning-system?specialization=reinforcement-learning | Intermediate | 16 hrs | | https://www.coursera.org/account/accomplishments/certificate/LBK2PZAYKXNW |
+| Generative Adversarial Networks (GANs) | (see below) | Intermediate | 3 months | Deeplearning.ai | https://www.coursera.org/account/accomplishments/specialization/certificate/G92VWKBBHN68 |
