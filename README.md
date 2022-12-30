@@ -21,5 +21,5 @@
 | AI for Medical Prognosis | https://www.coursera.org/learn/ai-for-medical-prognosis?specialization=ai-for-medicine | Intermediate | 30 hrs | | https://www.coursera.org/account/accomplishments/certificate/9934VW4KRKLW |
 | AI For Medical Treatment | https://www.coursera.org/learn/ai-for-medical-treatment?specialization=ai-for-medicine | Intermediate | 22 hrs | |https://www.coursera.org/account/accomplishments/certificate/98ADQS2GKDEP |
 | Machine Learning Specialization | (see below) | Beginner | 3 months | Deeplearning.ai | https://www.coursera.org/account/accomplishments/specialization/certificate/9PPQUK9QSVVG- |
-| Supervised Machine Learning: Regression and Classification | https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction |
+| | https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction |
 Beginner | 33 hours | | https://www.coursera.org/account/accomplishments/certificate/AMBMYXUWCT29 |
