@@ -18,3 +18,5 @@
 | Sequences, Time Series and Prediction |https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice| Intermediate | 23 hrs | | https://www.coursera.org/account/accomplishments/certificate/CBGEW32N98NR |
 | AI for Medicine | (see below) | Intermediate | 3 months | Deeplearning.ai | https://www.coursera.org/account/accomplishments/specialization/certificate/KS7XCLG6SU7H |
 | AI for Medical Diagnosis | https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine | Intermediate | 20 hrs | | https://www.coursera.org/account/accomplishments/certificate/2YFJGXBNPMWP |
+| AI for Medical Prognosis | https://www.coursera.org/learn/ai-for-medical-prognosis?specialization=ai-for-medicine | Intermediate | 30 hrs | | https://www.coursera.org/account/accomplishments/certificate/9934VW4KRKLW |
+| AI For Medical Treatment | https://www.coursera.org/learn/ai-for-medical-treatment?specialization=ai-for-medicine | Intermediate | 22 hrs | |https://www.coursera.org/account/accomplishments/certificate/98ADQS2GKDEP |
