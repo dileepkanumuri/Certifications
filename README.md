@@ -24,5 +24,4 @@
 | Supervised Machine Learning: Regression and Classification |https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction | Beginner | 33 hrs | |https://www.coursera.org/account/accomplishments/certificate/AMBMYXUWCT29|
 | Advanced Learning Algorithms | https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction | Beginner | 33 hrs | |https://www.coursera.org/account/accomplishments/certificate/KFFMKZLJAM9X|
 | Unsupervised Learning, Recommenders, Reinforcement Learning | https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction | Beginner | 27 hrs |  | https://www.coursera.org/account/accomplishments/certificate/88EAVFDWM8ET |
-| Big Data Specialization | (see below) | Beginner | 8 months | University of California San Diego | 
-https://www.coursera.org/account/accomplishments/specialization/certificate/6XVHJTXB2ZSD |
+| Big Data Specialization | (see below) | Beginner | 8 months | University of California San Diego |https://www.coursera.org/account/accomplishments/specialization/certificate/6XVHJTXB2ZSD |
