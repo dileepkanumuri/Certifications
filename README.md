@@ -16,3 +16,4 @@
 | Convolutional Neural Networks in TensorFlow | https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice | Intermediate | 18 hrs | | https://www.coursera.org/account/accomplishments/certificate/J9Z5SE6G9WW2 |
 | Natural Language Processing in TensorFlow | https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice | Intermediate | 24 hrs | | https://www.coursera.org/account/accomplishments/certificate/W2JC8CENNSPA |
 | Sequences, Time Series and Prediction |https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice| Intermediate | 23 hrs | | https://www.coursera.org/account/accomplishments/certificate/CBGEW32N98NR |
+|AI for Medicine | (see below) | Intermediate | 3 months | Deeplearning.ai | https://www.coursera.org/account/accomplishments/specialization/certificate/KS7XCLG6SU7H |
