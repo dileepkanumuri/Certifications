@@ -25,3 +25,6 @@
 | Advanced Learning Algorithms | https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction | Beginner | 33 hrs | |https://www.coursera.org/account/accomplishments/certificate/KFFMKZLJAM9X|
 | Unsupervised Learning, Recommenders, Reinforcement Learning | https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction | Beginner | 27 hrs |  | https://www.coursera.org/account/accomplishments/certificate/88EAVFDWM8ET |
 | Big Data Specialization | (see below) | Beginner | 8 months | University of California San Diego |https://www.coursera.org/account/accomplishments/specialization/certificate/6XVHJTXB2ZSD |
+| Introduction to Big Data | https://www.coursera.org/learn/big-data-introduction?specialization=big-data | Beginner | 17 hrs |  | https://www.coursera.org/account/accomplishments/certificate/J4QGTEQCMBX8|
+| 
+Big Data Modeling and Management Systems
