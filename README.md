@@ -26,5 +26,8 @@
 | Unsupervised Learning, Recommenders, Reinforcement Learning | [Course](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) | Beginner | 27 hrs |  | [Certificate](https://www.coursera.org/account/accomplishments/certificate/88EAVFDWM8ET) |
 | Big Data Specialization | (see below) | Beginner | 8 months | University of California San Diego |[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6XVHJTXB2ZSD) |
 | Introduction to Big Data | [Course](https://www.coursera.org/learn/big-data-introduction?specialization=big-data) | Beginner | 17 hrs |  | [Certificate](https://www.coursera.org/account/accomplishments/certificate/J4QGTEQCMBX8)|
-| 
-Big Data Modeling and Management Systems
+| Big Data Modeling and Management Systems | [Course](https://www.coursera.org/learn/big-data-management?specialization=big-data) | Beginner | 13 hrs| | [Certificate](https://www.coursera.org/account/accomplishments/certificate/VA25J8CLDXXZ)
+| Big Data Integration and Processing | [Course](https://www.coursera.org/learn/big-data-integration-processing?specialization=big-data) | Beginner | 18 hrs| |[Certificate](https://www.coursera.org/account/accomplishments/certificate/VA25J8CLDXXZ)
+| Machine Learning With Big Data| [Course](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data) | Beginner | 22 hrs| | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YJRDHLSXLL4M)
+| Graph Analytics for Big Data|  [Course](https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data)| Beginner | 13 hrs| | [Certificate](https://www.coursera.org/account/accomplishments/certificate/W3YVWFHWBAST)
+|Big Data - Capstone Project | [Course](https://www.coursera.org/learn/big-data-project?specialization=big-data) |  Beginner | 21 hrs| | [Certificate](https://www.coursera.org/account/accomplishments/certificate/7W7F559WF4LD)
